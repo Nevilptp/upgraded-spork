@@ -1,2 +1,2 @@
-# upgraded-spork
-
+# django
+django based event management system
