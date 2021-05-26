@@ -6,14 +6,9 @@ Django based event management system with student login
 2. Nabeel https://github.com/nbl-ahmd
 3. Aswin https://github.com/aswinbharath1
 ## Team Id
-Team id here
-## Link to product walkthrough
-[link to video]
-## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+BFH/recDskg1GRa45nxQj/2021
 ## Libraries used
-Library Name - Version
+Django
 ## How to configure
 1. Clone This Project `https://github.com/Nevilptp/upgraded-spork.git`
 2. Go to Project Directory `cd django-event-management`
